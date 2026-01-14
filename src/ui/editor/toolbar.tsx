@@ -512,10 +512,9 @@ export const Toolbar = forwardRef<ToolbarRef, ToolbarProps>(({
                   <Dialog.Portal>
                     <Dialog.Overlay className="fixed inset-0 bg-black/50 z-50" />
                     <Dialog.Content className="fixed top-1/2 left-1/2 max-w-[450px] -translate-x-1/2 -translate-y-1/2 bg-white p-6 rounded shadow-lg z-[51]">
-                      <Dialog.Title className="text-lg font-bold">Print Page</Dialog.Title>
+                      <Dialog.Title className="text-lg font-bold">Generate PDF</Dialog.Title>
                       <Dialog.Description className="mt-2">
-                        This is only a page print (without header and footer), not
-                        an exported document. Do you want to continue?
+                        Do you want to continue generating a PDF?
                       </Dialog.Description>
                       <div className="mt-4 flex justify-end gap-3">
                         <Dialog.Close asChild><Button variant="outline" size="lg">Cancel</Button></Dialog.Close>
