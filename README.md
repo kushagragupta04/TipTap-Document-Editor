@@ -1,5 +1,4 @@
 # Tiptap Editor
-> Built for **Opensphere | LegalBridge**
 
 A professional-grade document editor expressly designed for legal accuracy and precision. Tiptap Editor combines the ease of modern text editing with the strict formatting requirements of the legal profession.
 
@@ -43,5 +42,3 @@ Once the application is running, you can:
 *   **Insert Elements**: Use the toolbar to add tables, images, or lists.
 *   **Print/Export**: Click the print icon in the toolbar or use standard browser print shortcuts (Ctrl+P / Cmd+P) to generate a perfectly formatted PDF.
 
----
-© Opensphere | LegalBridge
