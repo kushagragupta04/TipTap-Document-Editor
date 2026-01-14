@@ -1,6 +1,7 @@
-# Opensphere | LegalBridge
+# Tiptap Editor
+> Built for **Opensphere | LegalBridge**
 
-A professional-grade document editor expressly designed for legal accuracy and precision. LegalBridge combines the ease of modern text editing with the strict formatting requirements of the legal profession.
+A professional-grade document editor expressly designed for legal accuracy and precision. Tiptap Editor combines the ease of modern text editing with the strict formatting requirements of the legal profession.
 
 ## Key Features
 
@@ -10,11 +11,11 @@ A professional-grade document editor expressly designed for legal accuracy and p
 - **Seamless PDF Export & Printing**: What you see is truly what you get. Our print engine honors your layout perfectly.
 - **Rich Text Formatting**: Full support for standard formatting including **Bold**, *Italics*, <u>Underline</u>, ~~Strikethrough~~, Lists, and Blockquotes.
 
-## Why Choose LegalBridge?
+## Why Choose Tiptap Editor?
 
 Most web-based editors treat content as a single, continuous scroll, leading to "print anxiety"—the fear that what you see on screen won't match the final PDF.
 
-**LegalBridge is different.**
+**Tiptap Editor is different.**
 
 *   **Page-First Architecture**: We don't just simulate pages; the editor understands physical paper boundaries in real-time.
 *   **Eliminate Formatting Fatigue**: Stop wasting hours fighting with broken tables and orphaned headers. Our engine handles the layout logic so you can focus on the argument.
